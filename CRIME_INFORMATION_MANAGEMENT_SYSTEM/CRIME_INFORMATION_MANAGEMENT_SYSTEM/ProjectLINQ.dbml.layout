@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ProjectLINQ">
+  <DataContextMoniker Name="/ProjectLINQDataContext" />
+  <nestedChildShapes>
+    <classShape Id="0a66b898-ccc6-44f6-82eb-6d3d11a75636" absoluteBounds="5.75, 3.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/ProjectLINQDataContext/CrimeInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd7a6e16-1781-4947-a47f-443d12a4fc10" absoluteBounds="5.765, 4.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fe145369-b1ed-48bd-9083-cb9012d1d2fe" absoluteBounds="3.5, 1.625, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/ProjectLINQDataContext/AdminLogin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6b04d37d-02bc-4e83-8464-b1c743de1084" absoluteBounds="3.5149999999999997, 2.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e452a288-1305-4983-bc9c-9e006a0a6cab" absoluteBounds="5.875, 0.5, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/ProjectLINQDataContext/Criminal_Info" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c3c37eff-7027-4005-9703-85ff45a63673" absoluteBounds="5.89, 0.96, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
